@@ -35,7 +35,7 @@ excelあるいは、open officeのインストールがインストール済で�
 m.Kanno
 
 ## License / ライセンス
-このプロジェクトは MIT ライセンスの元にライセンスされています。 詳細は[LICENSE.md](LICENSE.md)をご覧ください。
+このプロジェクトは MIT ライセンスの元にライセンスされています。 
 
 ## Acknowledgments / 謝辞
 特になし
